@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\bridgelabz_assignments\\practiceProjects\\Review3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6433BADC-2546-4DF4-84F3-08AE1612F7C2}|PalindromeTest\\PalindromeTest.csproj|d:\\bridgelabz_assignments\\practiceprojects\\review3\\palindrometest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6433BADC-2546-4DF4-84F3-08AE1612F7C2}|PalindromeTest\\PalindromeTest.csproj|solutionrelative:palindrometest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BE37E3-5CA0-46C0-8521-3FAF38CFE789}|CalculatorTest\\CalculatorTest.csproj|d:\\bridgelabz_assignments\\practiceprojects\\review3\\calculatortest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7BE37E3-5CA0-46C0-8521-3FAF38CFE789}|CalculatorTest\\CalculatorTest.csproj|solutionrelative:calculatortest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120978BF-0C82-4625-964B-21438DBE4763}|Review3\\Review3.csproj|d:\\bridgelabz_assignments\\practiceprojects\\review3\\review3\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120978BF-0C82-4625-964B-21438DBE4763}|Review3\\Review3.csproj|solutionrelative:review3\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120978BF-0C82-4625-964B-21438DBE4763}|Review3\\Review3.csproj|d:\\bridgelabz_assignments\\practiceprojects\\review3\\review3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120978BF-0C82-4625-964B-21438DBE4763}|Review3\\Review3.csproj|solutionrelative:review3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BE37E3-5CA0-46C0-8521-3FAF38CFE789}|CalculatorTest\\CalculatorTest.csproj|d:\\bridgelabz_assignments\\practiceprojects\\review3\\calculatortest\\calculatortest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D7BE37E3-5CA0-46C0-8521-3FAF38CFE789}|CalculatorTest\\CalculatorTest.csproj|solutionrelative:calculatortest\\calculatortest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120978BF-0C82-4625-964B-21438DBE4763}|Review3\\Review3.csproj|d:\\bridgelabz_assignments\\practiceprojects\\review3\\review3\\pallindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120978BF-0C82-4625-964B-21438DBE4763}|Review3\\Review3.csproj|solutionrelative:review3\\pallindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6433BADC-2546-4DF4-84F3-08AE1612F7C2}|PalindromeTest\\PalindromeTest.csproj|d:\\bridgelabz_assignments\\practiceprojects\\review3\\palindrometest\\palindrometest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6433BADC-2546-4DF4-84F3-08AE1612F7C2}|PalindromeTest\\PalindromeTest.csproj|solutionrelative:palindrometest\\palindrometest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120978BF-0C82-4625-964B-21438DBE4763}|Review3\\Review3.csproj|d:\\bridgelabz_assignments\\practiceprojects\\review3\\review3\\validations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120978BF-0C82-4625-964B-21438DBE4763}|Review3\\Review3.csproj|solutionrelative:review3\\validations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120978BF-0C82-4625-964B-21438DBE4763}|Review3\\Review3.csproj|d:\\bridgelabz_assignments\\practiceprojects\\review3\\review3\\review3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{120978BF-0C82-4625-964B-21438DBE4763}|Review3\\Review3.csproj|solutionrelative:review3\\review3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120978BF-0C82-4625-964B-21438DBE4763}|Review3\\Review3.csproj|d:\\bridgelabz_assignments\\practiceprojects\\review3\\review3\\invalidageexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120978BF-0C82-4625-964B-21438DBE4763}|Review3\\Review3.csproj|solutionrelative:review3\\invalidageexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120978BF-0C82-4625-964B-21438DBE4763}|Review3\\Review3.csproj|d:\\bridgelabz_assignments\\practiceprojects\\review3\\review3\\productoutofstockexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120978BF-0C82-4625-964B-21438DBE4763}|Review3\\Review3.csproj|solutionrelative:review3\\productoutofstockexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120978BF-0C82-4625-964B-21438DBE4763}|Review3\\Review3.csproj|d:\\bridgelabz_assignments\\practiceprojects\\review3\\review3\\insufficientfundsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120978BF-0C82-4625-964B-21438DBE4763}|Review3\\Review3.csproj|solutionrelative:review3\\insufficientfundsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PalindromeTest",
+              "DocumentMoniker": "D:\\bridgelabz_assignments\\practiceProjects\\Review3\\PalindromeTest\\PalindromeTest.csproj",
+              "RelativeDocumentMoniker": "PalindromeTest\\PalindromeTest.csproj",
+              "ToolTip": "D:\\bridgelabz_assignments\\practiceProjects\\Review3\\PalindromeTest\\PalindromeTest.csproj",
+              "RelativeToolTip": "PalindromeTest\\PalindromeTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-25T07:55:38.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\bridgelabz_assignments\\practiceProjects\\Review3\\PalindromeTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "PalindromeTest\\UnitTest1.cs",
+              "ToolTip": "D:\\bridgelabz_assignments\\practiceProjects\\Review3\\PalindromeTest\\UnitTest1.cs",
+              "RelativeToolTip": "PalindromeTest\\UnitTest1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T07:55:34.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pallindrome.cs",
+              "DocumentMoniker": "D:\\bridgelabz_assignments\\practiceProjects\\Review3\\Review3\\Pallindrome.cs",
+              "RelativeDocumentMoniker": "Review3\\Pallindrome.cs",
+              "ToolTip": "D:\\bridgelabz_assignments\\practiceProjects\\Review3\\Review3\\Pallindrome.cs",
+              "RelativeToolTip": "Review3\\Pallindrome.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T07:49:25.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Review3",
+              "DocumentMoniker": "D:\\bridgelabz_assignments\\practiceProjects\\Review3\\Review3\\Review3.csproj",
+              "RelativeDocumentMoniker": "Review3\\Review3.csproj",
+              "ToolTip": "D:\\bridgelabz_assignments\\practiceProjects\\Review3\\Review3\\Review3.csproj",
+              "RelativeToolTip": "Review3\\Review3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-25T07:30:32.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculatorTest",
+              "DocumentMoniker": "D:\\bridgelabz_assignments\\practiceProjects\\Review3\\CalculatorTest\\CalculatorTest.csproj",
+              "RelativeDocumentMoniker": "CalculatorTest\\CalculatorTest.csproj",
+              "ToolTip": "D:\\bridgelabz_assignments\\practiceProjects\\Review3\\CalculatorTest\\CalculatorTest.csproj",
+              "RelativeToolTip": "CalculatorTest\\CalculatorTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-25T07:29:46.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\bridgelabz_assignments\\practiceProjects\\Review3\\CalculatorTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CalculatorTest\\UnitTest1.cs",
+              "ToolTip": "D:\\bridgelabz_assignments\\practiceProjects\\Review3\\CalculatorTest\\UnitTest1.cs",
+              "RelativeToolTip": "CalculatorTest\\UnitTest1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwBoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T07:29:42.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "D:\\bridgelabz_assignments\\practiceProjects\\Review3\\Review3\\Calculator.cs",
+              "RelativeDocumentMoniker": "Review3\\Calculator.cs",
+              "ToolTip": "D:\\bridgelabz_assignments\\practiceProjects\\Review3\\Review3\\Calculator.cs",
+              "RelativeToolTip": "Review3\\Calculator.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T07:26:53.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InvalidAgeException.cs",
+              "DocumentMoniker": "D:\\bridgelabz_assignments\\practiceProjects\\Review3\\Review3\\InvalidAgeException.cs",
+              "RelativeDocumentMoniker": "Review3\\InvalidAgeException.cs",
+              "ToolTip": "D:\\bridgelabz_assignments\\practiceProjects\\Review3\\Review3\\InvalidAgeException.cs",
+              "RelativeToolTip": "Review3\\InvalidAgeException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T06:47:56.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\bridgelabz_assignments\\practiceProjects\\Review3\\Review3\\Program.cs",
+              "RelativeDocumentMoniker": "Review3\\Program.cs",
+              "ToolTip": "D:\\bridgelabz_assignments\\practiceProjects\\Review3\\Review3\\Program.cs",
+              "RelativeToolTip": "Review3\\Program.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAAIwOEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T05:29:55.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InsufficientFundsException.cs",
+              "DocumentMoniker": "D:\\bridgelabz_assignments\\practiceProjects\\Review3\\Review3\\InsufficientFundsException.cs",
+              "RelativeDocumentMoniker": "Review3\\InsufficientFundsException.cs",
+              "ToolTip": "D:\\bridgelabz_assignments\\practiceProjects\\Review3\\Review3\\InsufficientFundsException.cs",
+              "RelativeToolTip": "Review3\\InsufficientFundsException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T06:59:14.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Validations.cs",
+              "DocumentMoniker": "D:\\bridgelabz_assignments\\practiceProjects\\Review3\\Review3\\Validations.cs",
+              "RelativeDocumentMoniker": "Review3\\Validations.cs",
+              "ToolTip": "D:\\bridgelabz_assignments\\practiceProjects\\Review3\\Review3\\Validations.cs",
+              "RelativeToolTip": "Review3\\Validations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T05:31:41.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductoutofstockException.cs",
+              "DocumentMoniker": "D:\\bridgelabz_assignments\\practiceProjects\\Review3\\Review3\\ProductoutofstockException.cs",
+              "RelativeDocumentMoniker": "Review3\\ProductoutofstockException.cs",
+              "ToolTip": "D:\\bridgelabz_assignments\\practiceProjects\\Review3\\Review3\\ProductoutofstockException.cs",
+              "RelativeToolTip": "Review3\\ProductoutofstockException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T07:04:56.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

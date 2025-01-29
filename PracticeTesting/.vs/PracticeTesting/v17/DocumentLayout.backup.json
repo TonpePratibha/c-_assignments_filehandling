@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\bridgelabz_assignments\\practiceProjects\\PracticeTesting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAA5D57-999B-46E0-BC4C-2DD54B1EAF7E}|PracticeTesting\\PracticeTesting.csproj|d:\\bridgelabz_assignments\\practiceprojects\\practicetesting\\practicetesting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEAA5D57-999B-46E0-BC4C-2DD54B1EAF7E}|PracticeTesting\\PracticeTesting.csproj|solutionrelative:practicetesting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAA5D57-999B-46E0-BC4C-2DD54B1EAF7E}|PracticeTesting\\PracticeTesting.csproj|d:\\bridgelabz_assignments\\practiceprojects\\practicetesting\\practicetesting\\regexanddataannotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEAA5D57-999B-46E0-BC4C-2DD54B1EAF7E}|PracticeTesting\\PracticeTesting.csproj|solutionrelative:practicetesting\\regexanddataannotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAA5D57-999B-46E0-BC4C-2DD54B1EAF7E}|PracticeTesting\\PracticeTesting.csproj|d:\\bridgelabz_assignments\\practiceprojects\\practicetesting\\practicetesting\\sortedcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEAA5D57-999B-46E0-BC4C-2DD54B1EAF7E}|PracticeTesting\\PracticeTesting.csproj|solutionrelative:practicetesting\\sortedcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8453F177-62F9-4E30-BE14-AED88B21A6DB}|TestProject1\\TestProject1.csproj|d:\\bridgelabz_assignments\\practiceprojects\\practicetesting\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8453F177-62F9-4E30-BE14-AED88B21A6DB}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAACA89D-1765-4D7D-89E8-66474F37D20C}|SortedCollectionTest\\SortedCollectionTest.csproj|d:\\bridgelabz_assignments\\practiceprojects\\practicetesting\\sortedcollectiontest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAACA89D-1765-4D7D-89E8-66474F37D20C}|SortedCollectionTest\\SortedCollectionTest.csproj|solutionrelative:sortedcollectiontest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24224CA0-D0F2-4DA4-A820-3D7867581649}|TestProject2\\TestProject2.csproj|d:\\bridgelabz_assignments\\practiceprojects\\practicetesting\\testproject2\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24224CA0-D0F2-4DA4-A820-3D7867581649}|TestProject2\\TestProject2.csproj|solutionrelative:testproject2\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAACA89D-1765-4D7D-89E8-66474F37D20C}|SortedCollectionTest\\SortedCollectionTest.csproj|d:\\bridgelabz_assignments\\practiceprojects\\practicetesting\\sortedcollectiontest\\sortedcollectiontest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AAACA89D-1765-4D7D-89E8-66474F37D20C}|SortedCollectionTest\\SortedCollectionTest.csproj|solutionrelative:sortedcollectiontest\\sortedcollectiontest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAACA89D-1765-4D7D-89E8-66474F37D20C}|SortedCollectionTest\\SortedCollectionTest.csproj|d:\\bridgelabz_assignments\\practiceprojects\\practicetesting\\sortedcollectiontest\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAACA89D-1765-4D7D-89E8-66474F37D20C}|SortedCollectionTest\\SortedCollectionTest.csproj|solutionrelative:sortedcollectiontest\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAA5D57-999B-46E0-BC4C-2DD54B1EAF7E}|PracticeTesting\\PracticeTesting.csproj|d:\\bridgelabz_assignments\\practiceprojects\\practicetesting\\practicetesting\\practicetesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AEAA5D57-999B-46E0-BC4C-2DD54B1EAF7E}|PracticeTesting\\PracticeTesting.csproj|solutionrelative:practicetesting\\practicetesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24224CA0-D0F2-4DA4-A820-3D7867581649}|TestProject2\\TestProject2.csproj|d:\\bridgelabz_assignments\\practiceprojects\\practicetesting\\testproject2\\testproject2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{24224CA0-D0F2-4DA4-A820-3D7867581649}|TestProject2\\TestProject2.csproj|solutionrelative:testproject2\\testproject2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAA5D57-999B-46E0-BC4C-2DD54B1EAF7E}|PracticeTesting\\PracticeTesting.csproj|d:\\bridgelabz_assignments\\practiceprojects\\practicetesting\\practicetesting\\basicprograms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEAA5D57-999B-46E0-BC4C-2DD54B1EAF7E}|PracticeTesting\\PracticeTesting.csproj|solutionrelative:practicetesting\\basicprograms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8453F177-62F9-4E30-BE14-AED88B21A6DB}|TestProject1\\TestProject1.csproj|d:\\bridgelabz_assignments\\practiceprojects\\practicetesting\\testproject1\\testproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8453F177-62F9-4E30-BE14-AED88B21A6DB}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\testproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24224CA0-D0F2-4DA4-A820-3D7867581649}|TestProject2\\TestProject2.csproj|d:\\bridgelabz_assignments\\practiceprojects\\practicetesting\\testproject2\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24224CA0-D0F2-4DA4-A820-3D7867581649}|TestProject2\\TestProject2.csproj|solutionrelative:testproject2\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SortedCollection.cs",
+              "DocumentMoniker": "D:\\bridgelabz_assignments\\practiceProjects\\PracticeTesting\\PracticeTesting\\SortedCollection.cs",
+              "RelativeDocumentMoniker": "PracticeTesting\\SortedCollection.cs",
+              "ToolTip": "D:\\bridgelabz_assignments\\practiceProjects\\PracticeTesting\\PracticeTesting\\SortedCollection.cs",
+              "RelativeToolTip": "PracticeTesting\\SortedCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T04:36:33.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\bridgelabz_assignments\\practiceProjects\\PracticeTesting\\PracticeTesting\\Program.cs",
+              "RelativeDocumentMoniker": "PracticeTesting\\Program.cs",
+              "ToolTip": "D:\\bridgelabz_assignments\\practiceProjects\\PracticeTesting\\PracticeTesting\\Program.cs",
+              "RelativeToolTip": "PracticeTesting\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:31:04.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegexandDataannotation.cs",
+              "DocumentMoniker": "D:\\bridgelabz_assignments\\practiceProjects\\PracticeTesting\\PracticeTesting\\RegexandDataannotation.cs",
+              "RelativeDocumentMoniker": "PracticeTesting\\RegexandDataannotation.cs",
+              "ToolTip": "D:\\bridgelabz_assignments\\practiceProjects\\PracticeTesting\\PracticeTesting\\RegexandDataannotation.cs",
+              "RelativeToolTip": "PracticeTesting\\RegexandDataannotation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T11:03:52.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "D:\\bridgelabz_assignments\\practiceProjects\\PracticeTesting\\SortedCollectionTest\\Test1.cs",
+              "RelativeDocumentMoniker": "SortedCollectionTest\\Test1.cs",
+              "ToolTip": "D:\\bridgelabz_assignments\\practiceProjects\\PracticeTesting\\SortedCollectionTest\\Test1.cs",
+              "RelativeToolTip": "SortedCollectionTest\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T04:47:35.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "D:\\bridgelabz_assignments\\practiceProjects\\PracticeTesting\\TestProject2\\Test1.cs",
+              "RelativeDocumentMoniker": "TestProject2\\Test1.cs",
+              "ToolTip": "D:\\bridgelabz_assignments\\practiceProjects\\PracticeTesting\\TestProject2\\Test1.cs",
+              "RelativeToolTip": "TestProject2\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:06:31.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "D:\\bridgelabz_assignments\\practiceProjects\\PracticeTesting\\SortedCollectionTest\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "SortedCollectionTest\\MSTestSettings.cs",
+              "ToolTip": "D:\\bridgelabz_assignments\\practiceProjects\\PracticeTesting\\SortedCollectionTest\\MSTestSettings.cs",
+              "RelativeToolTip": "SortedCollectionTest\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T04:47:28.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PracticeTesting.csproj",
+              "DocumentMoniker": "D:\\bridgelabz_assignments\\practiceProjects\\PracticeTesting\\PracticeTesting\\PracticeTesting.csproj",
+              "RelativeDocumentMoniker": "PracticeTesting\\PracticeTesting.csproj",
+              "ToolTip": "D:\\bridgelabz_assignments\\practiceProjects\\PracticeTesting\\PracticeTesting\\PracticeTesting.csproj",
+              "RelativeToolTip": "PracticeTesting\\PracticeTesting.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-23T10:39:08.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestProject2.csproj",
+              "DocumentMoniker": "D:\\bridgelabz_assignments\\practiceProjects\\PracticeTesting\\TestProject2\\TestProject2.csproj",
+              "RelativeDocumentMoniker": "TestProject2\\TestProject2.csproj",
+              "ToolTip": "D:\\bridgelabz_assignments\\practiceProjects\\PracticeTesting\\TestProject2\\TestProject2.csproj",
+              "RelativeToolTip": "TestProject2\\TestProject2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-23T11:13:15.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BasicPrograms.cs",
+              "DocumentMoniker": "D:\\bridgelabz_assignments\\practiceProjects\\PracticeTesting\\PracticeTesting\\BasicPrograms.cs",
+              "RelativeDocumentMoniker": "PracticeTesting\\BasicPrograms.cs",
+              "ToolTip": "D:\\bridgelabz_assignments\\practiceProjects\\PracticeTesting\\PracticeTesting\\BasicPrograms.cs",
+              "RelativeToolTip": "PracticeTesting\\BasicPrograms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:32:20.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\bridgelabz_assignments\\practiceProjects\\PracticeTesting\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "D:\\bridgelabz_assignments\\practiceProjects\\PracticeTesting\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:33:51.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SortedCollectionTest.csproj",
+              "DocumentMoniker": "D:\\bridgelabz_assignments\\practiceProjects\\PracticeTesting\\SortedCollectionTest\\SortedCollectionTest.csproj",
+              "RelativeDocumentMoniker": "SortedCollectionTest\\SortedCollectionTest.csproj",
+              "ToolTip": "D:\\bridgelabz_assignments\\practiceProjects\\PracticeTesting\\SortedCollectionTest\\SortedCollectionTest.csproj",
+              "RelativeToolTip": "SortedCollectionTest\\SortedCollectionTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-24T04:47:45.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestProject1.csproj",
+              "DocumentMoniker": "D:\\bridgelabz_assignments\\practiceProjects\\PracticeTesting\\TestProject1\\TestProject1.csproj",
+              "RelativeDocumentMoniker": "TestProject1\\TestProject1.csproj",
+              "ToolTip": "D:\\bridgelabz_assignments\\practiceProjects\\PracticeTesting\\TestProject1\\TestProject1.csproj",
+              "RelativeToolTip": "TestProject1\\TestProject1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-23T11:11:47.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "D:\\bridgelabz_assignments\\practiceProjects\\PracticeTesting\\TestProject2\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "TestProject2\\MSTestSettings.cs",
+              "ToolTip": "D:\\bridgelabz_assignments\\practiceProjects\\PracticeTesting\\TestProject2\\MSTestSettings.cs",
+              "RelativeToolTip": "TestProject2\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:06:28.269Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
